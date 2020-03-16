@@ -1,0 +1,12 @@
+.app{
+    background-color: cornsilk;
+}
+
+.wrapper {
+    margin-top: 40%;
+    margin-bottom: 100%;
+}
+
+.warning{
+    display: none;
+}
